@@ -1,0 +1,2 @@
+1=slides/kurosystemes.pptx
+2=slides/satyamtechnocrats.pptx
