@@ -12,12 +12,13 @@ Supports **Start/Pause**, **Next Slide** commands, and **feedback bits** to the 
 - ⏭ Advance to the next slide on rising-edge PLC signal.
 - 🔄 Feedback bit from PC to PLC for slide change confirmation.
 - 🖱 Includes a built-in **Simulation Mode** (for testing without PLC).
+- ⚡ **No Python installation required** — fully self-contained.
 
 ---
 
 ## 📥 Download & Install
 
-1. **Download the latest installer** from the [Releases](../../releases) page.
+1. Request the installer by emailing: **info@kurosystems.net**
 2. Run the installer — default install path:
    ```
    C:\Program Files\PLC Slideshow Controller
@@ -74,5 +75,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 ## 👨‍💻 Author
-Developed by [Your Name / Company]  
-For support, contact: `youremail@example.com`
+Developed by [KURO Systems](https://kurosystems.net)  
+For support & installer requests, contact: **info@kurosystems.net**
