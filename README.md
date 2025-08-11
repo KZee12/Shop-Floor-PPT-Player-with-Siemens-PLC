@@ -96,14 +96,10 @@ Shop-Floor-PPT-Player-with-Siemens-PLC/
 If you prefer a ready-to-install setup file for quick deployment, please contact:  
 **info@kurosystems.net**
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## 📞 Support
 
-For issues or questions, please open an issue on the GitHub repository page.
+For issues or questions, please contact us at **info@kurosystems.net**
